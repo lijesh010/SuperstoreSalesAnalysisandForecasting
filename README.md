@@ -10,3 +10,9 @@ One of the key features of this project is the utilization of the Power BI Forec
 
 ## Conclusion
 Through the analysis of the superstore sales data and the implementation of sales forecasting using Power BI, this project provides valuable insights for business owners and decision-makers. By understanding customer behavior, identifying top-performing products, and utilizing accurate sales forecasts, businesses can optimize their operations and drive growth effectively.
+
+## Dashboards
+![page-01](https://github.com/lijesh010/SuperstoreSalesAnalysisandForecasting/assets/131745794/af69e5aa-65bd-43c6-983f-8a7eb23500b9)
+![page-02](https://github.com/lijesh010/SuperstoreSalesAnalysisandForecasting/assets/131745794/36ce41a5-fb68-4bf0-a90a-be5dadbe2523)
+
+
